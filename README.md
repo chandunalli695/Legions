@@ -31,7 +31,7 @@ Android device or emulator with API level 21 or higher
 
 Steps:
 
-Clone the repository: git clone https://github.com/Nithin0406/Smart_Shield.git
+Clone the repository: git clone https://github.com/Nithin0406/Legions.git
 
 Open the project in Android Studio:
 
